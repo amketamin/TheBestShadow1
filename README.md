@@ -1,1 +1,3 @@
-Здарова, я мадара и я занимаюсь созданием GMOD серверов:3
+Newbie GLua coder
+
+Junior HTML / CSS / PHP coder
